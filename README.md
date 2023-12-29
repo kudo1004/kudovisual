@@ -1,9 +1,10 @@
 # 💫About Me :
-💎 Tài khoản GitHub chính thức của @KudoVisual ! ~ Không sử dụng nick phụ.
-🧊 Contact work (me):
-Email: kudovisual02@gmail.com
-Facebook: https://www.facebook.com/kudovisual
-© Copyright by LieuAnNhieu Software ™ | KudoVisual ™
+* 💎 Tài khoản GitHub chính thức của @KudoVisual ! ~ Không sử dụng nick phụ.
+* 🧊 Contact work (me):
+# Contact Me :
+* Email: kudovisual02@gmail.com
+* Facebook: https://www.facebook.com/kudovisual
+* © Copyright by LieuAnNhieu Software ™ | KudoVisual ™
 
 
 ## 🌐Socials
