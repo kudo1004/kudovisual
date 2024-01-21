@@ -21,4 +21,4 @@
 Đơn giản, tôi là một fan chân thành của "**Thám tử lừng danh Conan**".
 
 # Thông báo mới nhất
-Đăng bởi @kudovisual.dev lúc 24/12/2023 9:00 AM (UTC+7) : Dự án tôi đang tập trung phát triển nhất là "kudovisual.github.io".
+`_Error: Not found file "thong-bao.txt" in system: https://kudovisual.github.io/README/thong-bao.txtw_`
