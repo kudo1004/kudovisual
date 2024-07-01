@@ -1,6 +1,5 @@
 # 💫About Me :
 * 💎 Tài khoản GitHub chính thức của kudo ! ~ @kudodev06
-* 🧊 Contact work (me):
 # Contact Me :
 * Email: kudovisual02@gmail.com
 * Facebook: https://www.facebook.com/kudovisual
