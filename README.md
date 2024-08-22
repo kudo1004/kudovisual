@@ -22,5 +22,4 @@
 # Thông báo mới nhất
 `_Error: Not found file "thong-bao.txt" in system: https://kudovisual.github.io/README/thong-bao.txtw_`
 
-# DMCA
 [![DMCA Protected](https://images.dmca.com/Badges/DMCA_logo-grn-btn120w.png?ID=c711bb14-8723-44a1-a408-df8fcd65e5bb)](https://www.dmca.com/r/dz8kpx2)
