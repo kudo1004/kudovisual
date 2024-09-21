@@ -16,10 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kudovisual&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kudovisual&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Thông tin khác về tôi
-Đơn giản, tôi là một fan chân thành của "**Thám tử lừng danh Conan**".
 
 # Thông báo mới nhất
-`_Error: Not found file "thong-bao.txt" in system: https://kudovisual.github.io/README/thong-bao.txtw_`
+`/_Error: Not found file "thong-bao.txt" in path: http://server.portalprivate.kudovnsz.dev/2021/thong-bao.txt?SessionKeyPassword=9aZ76zAd8Nk7C4I1q23`
 
 [![DMCA Protected](https://images.dmca.com/Badges/DMCA_logo-grn-btn120w.png?ID=c711bb14-8723-44a1-a408-df8fcd65e5bb)](https://www.dmca.com/r/dz8kpx2)
