@@ -1,8 +1,7 @@
 # 💫About Me :
-* 💎 Tài khoản GitHub chính thức của kudo ! ~ @kudodev06
+* 💎 Tài khoản GitHub chính thức của kudodz?
 # Contact Me :
-* Email: cuniz.contact@gmail.com
-* Facebook: https://www.facebook.com/doibuonjqk120
+* Facebook: https://www.facebook.com/doibuoonnn1287DEV
 
 
 
